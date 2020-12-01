@@ -1,0 +1,8 @@
+[
+  "test_api.py::test_new_game",
+  "test_api.py::test_random_move_api",
+  "test_api.py::test_best_random_move_api",
+  "test_api.py::test_best_minimax_move_api",
+  "test_api.py::test_score",
+  "test_api.py::test_best_move"
+]
