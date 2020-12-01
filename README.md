@@ -36,7 +36,7 @@ An overview of:
 
 1. Install all the libraries mentioned in the [requirements.txt](https://github.com/mayank-96/Adrishta-Hackathon-Template/blob/master/Application%20Code/requirements.txt) file.
 2. Clone this repository in your local system.
-3. Open the command prompt from your project directory and run the command `python app.py`.
+3. Open the command prompt from your project directory and run the command `python server.py`.
 4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. Hurray! That's it.
 
