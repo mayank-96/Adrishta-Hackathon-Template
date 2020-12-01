@@ -28,8 +28,17 @@ An overview of:
   The App is deployed using Heroku platform making it easier to access by anyone over the internet.
 * Since We Have already deployed a production version of the web app there are no setups required other than a internet browser and an active internet connection.
 * The site can be accessed at : 
+
 ### Screenshots
 Affix the relevant screenshots of the developed project here.
+
+### How to run the project?
+
+1. Install all the libraries mentioned in the [requirements.txt](https://github.com/mayank-96/Adrishta-Hackathon-Template/blob/master/Application%20Code/requirements.txt) file.
+2. Clone this repository in your local system.
+3. Open the command prompt from your project directory and run the command `python app.py`.
+4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+5. Hurray! That's it.
 
 ### Team Members
 |Member Name        |     Email                 |        Contribution         |
