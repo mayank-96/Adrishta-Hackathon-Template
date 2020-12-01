@@ -77,6 +77,7 @@ def best_minimax_move():
         score_str=str(info["score"])
         result = [int(d) for d in re.findall(r'-?\d+', score_str)]
         res=result[0]
+        res=res/100
         graph.append(res)
         if(len(graph)>1):
             corn=graph[-2]-graph[-1]
@@ -94,6 +95,7 @@ def best_minimax_move():
         wprob=1/(1+(10**((1-res)/4)))
         print(move,wprob)
         wprob = float("{:.4f}".format(wprob))
+        wprob= wprob * 100
 
     return jsonify({'board': str(board.get_fen()) , 'pred' : str(move) , 'prob': str(wprob), 'correct':str(cor)})
 

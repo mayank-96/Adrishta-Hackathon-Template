@@ -54,7 +54,9 @@
                         <p id="hint">Best Move</p>
                     </div>
                     <button type="button" class="btn btn-dark mt-5">Hint</button>
-
+                    <div class="border-bottom border-secondary p-4 m-4 display-4">
+                        <p id='condition'></p>
+                    </div>
                 </div>
 
 
@@ -180,11 +182,13 @@
                 // checkmate?
                 if (game.in_checkmate() === true) {
                     status = 'Game over, ' + moveColor + ' is in checkmate.';
+                    document.getElementById("condition").innerHTML= "Game Over "+moveColor+" is in checkmate";
                 }
 
                 // draw?
                 else if (game.in_draw() === true) {
                     status = 'Game over, drawn position';
+                    document.getElementById("condition").innerHTML="Game Draw"
                 }
 
                 // game still on
