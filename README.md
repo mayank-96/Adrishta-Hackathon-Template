@@ -30,7 +30,7 @@ An overview of:
 * The site can be accessed at : 
 
 ### Screenshots
-Affix the relevant screenshots of the developed project here.
+![1](https://user-images.githubusercontent.com/62810976/100769500-23dab400-3422-11eb-90fa-df9b45e43987.PNG)
 
 ### How to run the project?
 
