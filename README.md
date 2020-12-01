@@ -16,11 +16,11 @@ A brief description of
   * We use the Stockfish Chess engine to provide the user with a bot with difficulty levels ranging from a 1200 rating bot to a Grandmaster Level bot.
   * The Web App shows various information regarding the game as it progresses like the current winning probability, Mistakes, Inaccuracies, Blunders and Also an option to get the best possible move at the given Board State.
   
-#### Architecture Diagram
+### Architecture Diagram
 
 ![Architectural Diagram](https://user-images.githubusercontent.com/62810976/100753422-c0478b00-340f-11eb-87b5-dfcaa57f204a.PNG)
 
-#### Technical Description
+### Technical Description
 
 An overview of:
 * The overall application is written in Flask Framework based on Python.
