@@ -31,6 +31,8 @@ An overview of:
 
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/62810976/100769500-23dab400-3422-11eb-90fa-df9b45e43987.PNG)
+![2](https://user-images.githubusercontent.com/62810976/100779292-2e9b4600-342e-11eb-8665-0f940520faa9.PNG)
+![3](https://user-images.githubusercontent.com/62810976/100779295-30650980-342e-11eb-8a61-d4d7966b6096.PNG)
 
 ### How to run the project?
 
