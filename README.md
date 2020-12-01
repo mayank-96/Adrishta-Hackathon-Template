@@ -18,7 +18,7 @@ A brief description of
   
 #### Architecture Diagram
 
-https://ibb.co/qB0TJTR
+![Architectural Diagram](https://user-images.githubusercontent.com/62810976/100753422-c0478b00-340f-11eb-87b5-dfcaa57f204a.PNG)
 
 #### Technical Description
 
