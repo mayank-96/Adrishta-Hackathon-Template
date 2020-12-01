@@ -1,4 +1,4 @@
-## Team Number \29 - \Check & Mate
+## Team Number 29 - Check & Mate
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
