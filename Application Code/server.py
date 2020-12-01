@@ -8,7 +8,7 @@ from stockfish import Stockfish
 import re
 
 app = Flask(__name__)
-stockfish= Stockfish()
+stockfish= Stockfish("stockfish.exe")
 engine1 = chess.engine.SimpleEngine.popen_uci("stockfish.exe")
 stockfish.set_skill_level(0)
 
