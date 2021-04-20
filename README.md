@@ -1,10 +1,4 @@
-## Team Number 29 - Check & Mate
-
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
-
-The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. 
-
-**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document.
+## Check & Mate
 
 ### Project Overview
 
